@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Florida</a>. Gainesville, FL.
+subtitle: <a href='#'>UF</a>. Gainesville, FL.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>NPB 2064</p>
     <p>2001 Museum Rd</p>
-    <p>gainesville, FL 32611</p>
+    <p>Gainesville, FL 32611</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
