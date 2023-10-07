@@ -6,7 +6,7 @@ subtitle: <a href='https://www.phys.ufl.edu/wp/'>University of Florida</a>. Gain
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>NPB 2064</p>
