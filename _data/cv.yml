@@ -2,17 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Roy T. Forestano
     - name: Date of Birth
-      value: 14th March 1879
+      value: 08 October 1998
     - name: Languages
-      value: English, German
+      value: English, Italian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+    - title: Pursuing a PhD
+      institution: University of Flroida, Gainesville, FL
       year: 1905
       description:
         - Description 1.
