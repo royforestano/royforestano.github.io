@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.phys.ufl.edu/wp/'>University of Florida</a>. Gainesville, FL.
+subtitle: <a href='#'>University of Florida</a>. Gainesville, FL.
 
 profile:
   align: right
