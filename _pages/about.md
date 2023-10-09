@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.phys.ufl.edu/wp/'>University of Florida</a>. Gainesville, FL.
+subtitle: ""
 
 profile:
   align: right
@@ -19,6 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my site. Find blog posts, publications, and more related to be at the tabs above. The repository corresponding to this site exists at [Github](http://github.com/royforestano.github.io)
+Welcome to my site! here, you can find blog posts, publications, and more related to me. The repository corresponding to this site exists at [Github](http://github.com/royforestano.github.io)
 
-See social media connections below. This site is still under construction. Made some changes.
+Current Affilitation: Institute for Fundamental Theory (IFT), Department of Physics, <a href='https://www.phys.ufl.edu/wp/'>University of Florida</a>. Gainesville, FL.
+
+See social media links below. 
+
+NOTE: This site is still under construction.
