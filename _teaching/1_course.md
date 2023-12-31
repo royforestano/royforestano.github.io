@@ -2,7 +2,7 @@
 layout: page
 title: PHY2053
 description: Introducory Physics I
-img: assets/img/12.jpg
+img: assets/img/3.jpg
 importance: 1
 category: work
 # related_publications: einstein1956investigations, einstein1950meaning

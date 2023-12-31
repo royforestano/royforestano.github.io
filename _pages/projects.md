@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: projects
-description: Collection of quests.
+description: Collection of projects.
 nav: true
 nav_order: 2
 display_categories: [work]
