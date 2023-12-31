@@ -21,14 +21,14 @@ horizontal: false
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for teaching in sorted_teaching -%}
+    {%- for course in sorted_teaching -%}
       {% include teaching_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for teaching in sorted_teaching -%}
+    {%- for course in sorted_teaching -%}
       {% include teaching.html %}
     {%- endfor %}
   </div>
@@ -42,14 +42,14 @@ horizontal: false
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for teaching in sorted_teaching -%}
+    {%- for course in sorted_teaching -%}
       {% include teaching_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for teaching in sorted_teaching -%}
+    {%- for course in sorted_teaching -%}
       {% include teaching.html %}
     {%- endfor %}
   </div>
