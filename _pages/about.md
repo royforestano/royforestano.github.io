@@ -23,5 +23,3 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Welcome to my site! Here, you can find blog posts, publications, and more related to me. The repository corresponding to this site exists at [Github](http://github.com/royforestano.github.io).
-
-NOTE: This site is still under construction.
