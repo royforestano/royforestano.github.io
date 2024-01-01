@@ -4,8 +4,8 @@ permalink: /teaching/
 title: teaching
 description: Course materials.
 nav: true
-nav_order: 5
-display_categories: [work]
+nav_order: 4
+display_categories: [courses]
 horizontal: false
 ---
 

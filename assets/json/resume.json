@@ -1,30 +1,31 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+  "general": [{
+    "name": "Roy T. Forestano",
+    "label": "PhD Student and Teaching Assistant",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "roy.forestano@ufl.edu",
+    "phone": "",
+    "url": "https://royforestano.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "2001 Museum Rd",
+      "postalCode": "FL 32603",
+      "city": "Gainesville",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+      "region": "Florida"
       }
-    ]
-  },
-  "work": [
+    ,
+    "profiles": 
+      {
+        "network": "LinkedIn",
+        "username": "royforestano",
+        "url": "https://www.linkedin.com/in/royforestano/"
+      }
+    
+    } ],
+  "research": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
+      "name": "Institute for Fundamental Theory, University of Florida",
       "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
       "startDate": "1933-01-01",
@@ -35,7 +36,7 @@
       ]
     }
   ],
-  "volunteer": [],
+  "outreach": [],
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
