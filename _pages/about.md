@@ -8,13 +8,13 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Institute for Fundamental Theory</p>
-    <p>Department of Physics</p>
-    <p>University of Florida</p>
-    <p>2001 Museum Rd</p>
-    <p>Gainesville, FL 32611</p>
-    <p>Office: NPB 2064</p>
+  # more_info: >
+  #   <p>Institute for Fundamental Theory</p>
+  #   <p>Department of Physics</p>
+  #   <p>University of Florida</p>
+  #   <p>2001 Museum Rd</p>
+  #   <p>Gainesville, FL 32611</p>
+  #   <p>Office: NPB 2064</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

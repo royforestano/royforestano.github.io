@@ -7,23 +7,27 @@
 @article{forestano2023comparison,
       title={A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks}, 
       author={Roy T. Forestano and Marçal Comajoan Cara and Gopal Ramesh Dahale and Zhongtian Dong and Sergei Gleyzer and Daniel Justice and Kyoungchul Kong and Tom Magorsch and Konstantin T. Matchev and Katia Matcheva and Eyup B. Unlu},
-      year={2023},
+      abstract={Machine learning algorithms are heavily relied on to understand the vast amounts of data from high-energy particle collisions at the CERN Large Hadron Collider (LHC). The data from such collision events can naturally be represented with graph structures. Therefore, deep geometric methods, such as graph neural networks (GNNs), have been leveraged for various data analysis tasks in high-energy physics. One typical task is jet tagging, where jets are viewed as point clouds with distinct features and edge connections between their constituent particles. The increasing size and complexity of the LHC particle datasets, as well as the computational models used for their analysis, greatly motivate the development of alternative fast and efficient computational paradigms such as quantum computation. In addition, to enhance the validity and robustness of deep networks, one can leverage the fundamental symmetries present in the data through the use of invariant inputs and equivariant layers. In this paper, we perform a fair and comprehensive comparison between classical graph neural networks (GNNs) and equivariant graph neural networks (EGNNs) and their quantum counterparts: quantum graph neural networks (QGNNs) and equivariant quantum graph neural networks (EQGNN). The four architectures were benchmarked on a binary classification task to classify the parton-level particle initiating the jet. Based on their AUC scores, the quantum networks were shown to outperform the classical networks. However, seeing the computational advantage of the quantum networks in practice may have to wait for the further development of quantum technology and its associated APIs.},
+	  year={2023},
       eprint={2311.18672},
       archivePrefix={arXiv},
       primaryClass={quant-ph},
       preview={2023_auc_theta_gnn_egnn_qgnn_eqgnn.png},
-	  selected={true}
+	  selected={true},
+	  pdf={https://arxiv.org/abs/2311.18672}
 }
 
 
 @article{dong2023mathbbz2times,
       title={Z2 x Z2 Equivariant Quantum Neural Networks: Benchmarking against Classical Neural Networks}, 
       author={Zhongtian Dong and Marçal Comajoan Cara and Gopal Ramesh Dahale and Roy T. Forestano and Sergei Gleyzer and Daniel Justice and Kyoungchul Kong and Tom Magorsch and Konstantin T. Matchev and Katia Matcheva and Eyup B. Unlu},
-      year={2023},
+      abstract={This paper presents a comprehensive comparative analysis of the performance of Equivariant Quantum Neural Networks (EQNN) and Quantum Neural Networks (QNN), juxtaposed against their classical counterparts: Equivariant Neural Networks (ENN) and Deep Neural Networks (DNN). We evaluate the performance of each network with two toy examples for a binary classification task, focusing on model complexity (measured by the number of parameters) and the size of the training data set. Our results show that the Z2 xZ2 EQNN and the QNN provide superior performance for smaller parameter sets and modest training data samples.},
+	  year={2023},
       eprint={2311.18744},
       archivePrefix={arXiv},
       primaryClass={quant-ph},
-      preview={2023_auc_param_antisymmetry.png}
+      preview={2023_auc_param_antisymmetry.png},
+	  pdf={https://arxiv.org/abs/2311.18744}
 }
 
 
@@ -41,7 +45,8 @@
 	bdsk-url-1 = {https://www.sciencedirect.com/science/article/pii/S0370269323006408},
 	bdsk-url-2 = {https://doi.org/10.1016/j.physletb.2023.138306},
   	preview={2023_groups_desargues.png},
-	selected={true}
+	selected={true},
+	pdf={https://www.sciencedirect.com/science/article/pii/S0370269323006408}
 }
 
 
@@ -60,7 +65,8 @@
 	volume = {958},
 	year = {2023},
 	bdsk-url-1 = {https://dx.doi.org/10.3847/1538-4357/ad0047},
-  	preview={2023_Noisy_H2O_scatter_10ppm.png}
+  	preview={2023_Noisy_H2O_scatter_10ppm.png},
+	pdf={https://iopscience.iop.org/article/10.3847/1538-4357/ad0047}
 }
 
 
@@ -68,11 +74,13 @@
 @article{unlu2023reproducing,
       title={Reproducing Bayesian Posterior Distributions for Exoplanet Atmospheric Parameter Retrievals with a Machine Learning Surrogate Model}, 
       author={Eyup B. Unlu and Roy T. Forestano and Konstantin T. Matchev and Katia Matcheva},
+	  abstract={We describe a machine-learning-based surrogate model for reproducing the Bayesian posterior distributions for exoplanet atmospheric parameters derived from transmission spectra of transiting planets with typical retrieval software such as TauRex. The model is trained on ground truth distributions for seven parameters: the planet radius, the atmospheric temperature, and the mixing ratios for five common absorbers: H2O, CH4, NH3, CO and CO2. The model performance is enhanced by domain-inspired preprocessing of the features and the use of semi-supervised learning in order to leverage the large amount of unlabelled training data available. The model was among the winning solutions in the 2023 Ariel Machine Learning Data Challenge.},
       year={2023},
       eprint={2310.10521},
       archivePrefix={arXiv},
       primaryClass={astro-ph.EP},
-      preview={2023_ariel_posterior.png}
+      preview={2023_ariel_posterior.png},
+	  pdf={https://arxiv.org/abs/2310.10521}
 }
 
 
@@ -90,7 +98,8 @@
 	bdsk-url-1 = {https://www.sciencedirect.com/science/article/pii/S0370269323006007},
 	bdsk-url-2 = {https://doi.org/10.1016/j.physletb.2023.138266},
     preview={2023_accelerated_symmetry.png},
-	selected={true}
+	selected={true},
+	pdf={https://www.sciencedirect.com/science/article/pii/S0370269323006007}
 }
 
 
@@ -104,7 +113,6 @@
 	editor = {Ciccone, Marco and Stolovitzky, Gustavo and Albrecht, Jacob},
 	month = {28 Nov--09 Dec},
 	pages = {1--17},
-	pdf = {https://proceedings.mlr.press/v220/yip23a/yip23a.pdf},
 	publisher = {PMLR},
 	series = {Proceedings of Machine Learning Research},
 	title = {Lessons Learned from Ariel Data Challenge 2022 - Inferring Physical Properties of Exoplanets From Next-Generation Telescopes},
@@ -112,7 +120,9 @@
 	volume = {220},
 	year = {2022},
 	bdsk-url-1 = {https://proceedings.mlr.press/v220/yip23a.html},
-  preview={2022_ariel_posterior.png}
+    preview={2022_ariel_posterior.png},
+	pdf={https://proceedings.mlr.press/v220/yip23a.html}
+
 }
 
 
@@ -131,7 +141,8 @@
 	year = {2023},
 	bdsk-url-1 = {https://www.sciencedirect.com/science/article/pii/S0370269323004203},
 	bdsk-url-2 = {https://doi.org/10.1016/j.physletb.2023.138086},
-  preview={U4_generators.png}
+    preview={U4_generators.png},
+	pdf={https://www.sciencedirect.com/science/article/pii/S0370269323004203}
 }
 
 
@@ -153,7 +164,8 @@
 	bdsk-url-1 = {https://www.mdpi.com/2073-8994/15/7/1352},
 	bdsk-url-2 = {https://doi.org/10.3390/sym15071352},
     preview={latent_space_generator.png},
-	selected={true}
+	selected={true},
+	pdf={https://www.mdpi.com/2073-8994/15/7/1352}
 }
 
 
@@ -175,7 +187,8 @@
 	volume = {4},
 	year = {2023},
 	bdsk-url-1 = {https://dx.doi.org/10.1088/2632-2153/acd989},
-  preview={SO10_generators.png}
+    preview={SO10_generators.png},
+	pdf={https://dx.doi.org/10.1088/2632-2153/acd989}
 }
 
 

@@ -24,6 +24,20 @@
       }]
     
     },
+    "interests": [
+      {
+        "name": "Deep geometric methods, Quantum Information and Computing, Quantum/Conformal Field Theories, Generative Modeling, Interpretability, Supervised, Self-Supervised, and Unsupervised Learning, Deep Learning [NNs, CNNs, RNNs, GNNs, GANs, Transformers, NLPs, Normalizing Flows, and Diffusion Models ], Reinforcement Learning",
+        "keywords": "Current"
+      },
+      {
+        "name": "Gravity Theory",
+        "keywords": "Independent"
+      } ,
+      {
+        "name": "Quantum Statistical Field Theory, Fermi Liquid Theory, Unconventional Superconductivity",
+        "keywords": "Previous"
+      } 
+    ],
     "education": [
       {
         "institution": "University of Florida, Gainesville, Florida",
@@ -57,10 +71,22 @@
         "startDate": "2013",
         "endDate": "2017",
         "score": "",
-        "courses": []
+        "courses": [
+          "Activities and societies: Soccer (3 Seasons, 2013-2015), Baseball (2S, 2014-2015), Winter Track & Field (2S, 2015-2017), Spring Track & Field (2S, 2016-2017), Cross Country (1S, 2017), Math Club, Varsity Math Team (2014-2017), Robotics Club, Varsity Robotics Team (2015-2017), Science Club (2014-2017), STEM Club (2014-2017), Key Club (2013-2017), Italian Club (2013-2017)"
+        ]
       }
     ],
   "research": [
+    {
+      "organization": "Google Summer of Code (GSOC)",
+      "position": "Google Summer of Code Contributor for the Machine Learning for Science (ML4SCI) Organization",
+      "startDate": "2023-05",
+      "endDate": "2023-10",
+      "summary": "Redeveloped the theoretical frameworks and architectures for invariant and equivariant classical and quantum graph neural networks for HEP Analysis at the LHC alongside fellow GSOC contributors and mentors.",
+      "highlights": [
+        "Equivariance, Invariance, Quantum Computing, GNN, Self-Attention, Project Management, Communication"
+      ]
+    },
     {
       "name": "Institute for Fundamental Theory, Department of Physics, University of Florida, Group of Matchev/a",
       "position": "Graduate Research Assistant in Theoretical High Energy Physics",
@@ -275,32 +301,309 @@
   "conferences": [
     {
       "name": "2023 AAS DPS Meeting",
-      "url": "https://royforestano.github.io/cv/",
+      "url": "https://dps.aas.org/meetings/current",
       "location": "Virtual",
-      "date": "2021-10-01",
+      "date": "2023-10-01:10-06",
       "summary": "Presenting"
+    },
+    {
+      "name": "2023 IAIFI Summer School and Workshop",
+      "url": "https://iaifi.org/phd-summer-school.html",
+      "location": "Interdisciplinary Science and Engineering Complex, Northeastern University, Boston, MA",
+      "date": "2023-08-07:08-18",
+      "summary": "Presenting"
+    },
+    {
+      "name": "2023 Sagan Exoplanet Summer Hybrid Workshop",
+      "url": "https://nexsci.caltech.edu/workshop/2023/",
+      "location": "NASA Exoplanet Science Institute, California Institute of Technology (Caltech), Pasadena, CA",
+      "date": "2023-07-24:07-29",
+      "summary": "Presenting"
+    },
+    {
+      "name": "2023 CMS open data workshop at the LPC",
+      "url": "https://indico.fnal.gov/event/58914/",
+      "location": "Virtual",
+      "date": "2023-07-11:07-14",
+      "summary": "Non-Presenting"
+    },
+    {
+      "name": "2023 PHYSTAT-2sample Workshop",
+      "url": "https://indico.cern.ch/event/1258983/",
+      "location": "Virtual",
+      "date": "2023-06-01:06-02",
+      "summary": "Non-Presenting"
+    },
+    {
+      "name": "2023 NVIDIA AI Technology Center at UF AI Symposium",
+      "url": "https://informatics.research.ufl.edu/event/nvaitc-uf-virtual-ai-symposium",
+      "location": "Virtual",
+      "date": "2023-05-16:05-16",
+      "summary": "Non-Presenting"
+    },
+    {
+      "name": "2023 Google I/O",
+      "url": "https://io.google/2023/",
+      "location": "Virtual",
+      "date": "2023-05-10:05-10",
+      "summary": "Non-Presenting"
+    },
+    {
+      "name": "2023 Phenomonology (Pheno) Symposium",
+      "url": "https://indico.cern.ch/event/1218225/",
+      "location": "University of Pittsburg, Pittsburg, PA",
+      "date": "2023-05-08:05-10",
+      "summary": "Presenting"
+    },
+    {
+      "name": "2023 Building Ethics into AI at UF Panel Discussion",
+      "url": "https://news.hr.ufl.edu/gator-ai/building-ethics-in-ai-at-uf-panel/",
+      "location": "Reitz Union Chamber, University of Florida, Gainesville, FL",
+      "date": "2023-04-28:04-28",
+      "summary": "Non-Presenting"
+    },
+    {
+      "name": "2023 APS April Meeting",
+      "url": "https://april.aps.org",
+      "location": "Virtual",
+      "date": "2023-04-24:04-26",
+      "summary": "Presenting"
+    },
+    {
+      "name": "2023 6th Research Workshop on Cognition and Control",
+      "url": "https://meyn.ece.ufl.edu/c3/6th-workshop-on-cognition-control/",
+      "location": "Reitz Union Chamber, University of Florida, Gainesville, FL",
+      "date": "2023-01-26:01-27",
+      "summary": "Non-Presenting"
+    },
+    {
+      "name": "2022 NeurIPS",
+      "url": "https://neurips.cc",
+      "location": "New Orleans Ernest N. Morial Convention Center, New Orleans, LA",
+      "date": "2022-11-28:12-09",
+      "summary": "Presenting"
+    },
+    {
+      "name": "2022 APS April Meeting",
+      "url": "https://april.aps.org",
+      "location": "Virtual",
+      "date": "2022-04-09:04-12",
+      "summary": "Non-Presenting"
+    },
+    {
+      "name": "2021 APS March Meeting",
+      "url": "https://april.aps.org",
+      "location": "Virtual",
+      "date": "2021-03-15:03-19",
+      "summary": "Presenting"
+    },
+    {
+      "name": "2020 APS March Meeting",
+      "url": "https://april.aps.org",
+      "location": "Virtual",
+      "date": "2020-03-02:03-06",
+      "summary": "Non-Presenting"
+    },
+    {
+      "name": "2019 APS March Meeting",
+      "url": "https://april.aps.org",
+      "location": "Boston Convention and Exhibition Center, Boston, MA",
+      "date": "2020-03-04:03-08",
+      "summary": "Non-Presenting"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "NVIDIA DLI – Building Transformer-Based Natural Language Processing Applications",
+      "url": "https://courses.nvidia.com/certificates/b8c0e52bd1e845a7bf8ca8f4c8501730/",
+      "date": "2023-02",
+      "awarder": "NVIDIA",
+      "summary": ""
+    },
+    {
+      "title": "NVIDIA DLI – Fundamentals of Accelerated Computing with CUDA Python",
+      "url": "https://courses.nvidia.com/certificates/782fae0d6c4c4968a29af41934020e2c/",
+      "date": "2022-02",
+      "awarder": "NVIDIA",
+      "summary": ""
     }
   ],
   "awards": [
     {
       "title": "2023 Steigleman Family Fellowship",
       "date": "2023-05",
-      "awarder": "Presented by the UF Department of Physics in 2023",
+      "awarder": "Presented by the UF Department of Physics",
+      "summary": ""
+    },
+    {
+      "title": "Alpha Epsilon Lambda",
+      "date": "2022-08",
+      "awarder": "Inducted by UF",
+      "summary": ""
+    },
+    {
+      "title": "Grinter Fellowship",
+      "date": "2021-08",
+      "awarder": "Presented by the UF Department of Physics (active all graduate years)",
+      "summary": ""
+    },
+    {
+      "title": "2021 George J. Goldsmith Award",
+      "date": "2021-04",
+      "awarder": "Presented by the BC Department of Physics",
+      "summary": ""
+    },
+    {
+      "title": "Mathematics Honors",
+      "date": "2021-04",
+      "awarder": "Presented by the BC Department of Mathematics",
+      "summary": ""
+    },
+    {
+      "title": "Phi Beta Kappa",
+      "date": "2021-03",
+      "awarder": "Inducted by BC",
+      "summary": ""
+    },
+    {
+      "title": "Dean's Scholar",
+      "date": "2020-11",
+      "awarder": "Presented by BC",
+      "summary": ""
+    },
+    {
+      "title": "Sophomore Scholar",
+      "date": "2019-11",
+      "awarder": "Presented by BC",
+      "summary": ""
+    },
+    {
+      "title": "Sigma Pi Sigma",
+      "date": "2019-11",
+      "awarder": "Inducted by the BC Department of Physics",
+      "summary": []
+    },
+    {
+      "title": "The Society for Collegiate Leadership and Achievement",
+      "date": "2019-01",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Golden Key International Honour Society",
+      "date": "2019-01",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "NJSIAA Scholar Athlete Award",
+      "date": "2017-04",
+      "awarder": "Presented by the NJSIAA, Selected by Steinert HS",
+      "summary": ""
+    },
+    {
+      "title": "AP Scholar Award with Honor",
+      "date": "2017-06",
+      "awarder": "Presented by the College Board",
+      "summary": ""
+    },
+    {
+      "title": "AP Scholar Award with Honor",
+      "date": "2016-06",
+      "awarder": "Presented by the College Board",
+      "summary": ""
+    },
+    {
+      "title": "National Honors Society",
+      "date": "2016-05",
+      "awarder": "Inducted by Steinert HS",
+      "summary": ""
+    },
+    {
+      "title": "Math National Honors Society",
+      "date": "2016-05",
+      "awarder": "Inducted by Steinert HS",
+      "summary": ""
+    },
+    {
+      "title": "Science National Honors Society",
+      "date": "2016-05",
+      "awarder": "Inducted by Steinert HS",
+      "summary": ""
+    },
+    {
+      "title": "Italian National Honors Society",
+      "date": "2016-05",
+      "awarder": "Inducted by Steinert HS",
       "summary": ""
     }
   ],
   "memberships": [
     {
-      "title": "American Association for the Advancement of Science (AAAS)",
+      "title": "American Association for the Advancement of Science",
       "date": "2021",
-      "awarder": "",
+      "awarder": "AAAS",
+      "summary": []
+    },
+    {
+      "title": "American Mathematical Society",
+      "date": "2021",
+      "awarder": "AMS",
+      "summary": []
+    },
+    {
+      "title": "Il Circolo Italiano",
+      "date": "2020",
+      "awarder": "BC",
+      "summary": []
+    },
+    {
+      "title": "American Physical Society",
+      "date": "2018",
+      "awarder": "APS",
+      "summary": []
+    },
+    {
+      "title": "Society of Physics Students (SPS)",
+      "date": "2017",
+      "awarder": "BC",
+      "summary": []
+    },
+    {
+      "title": "Mathematics Society (MS)",
+      "date": "2017",
+      "awarder": "BC",
+      "summary": []
+    },
+    {
+      "title": "American Chemical Society (ACS)",
+      "date": "2017",
+      "awarder": "BC",
+      "summary": []
+    },
+    {
+      "title": "Computer Science Society (CSS)",
+      "date": "2017",
+      "awarder": "BC",
+      "summary": []
+    },
+    {
+      "title": "Outdoor Club",
+      "date": "2017",
+      "awarder": "BC",
+      "summary": []
+    },
+    {
+      "title": "EcoPledge",
+      "date": "2017",
+      "awarder": "BC",
       "summary": []
     }
   ],
   "publications": [],
   "skills": [
     {
-      "name": "Python, Scikit-learn, ensorflow, PyTorch, Pennylane, Seaborn, CPLEX,DOCPLEX, C++, C, LaTeX, Mathematica",
+      "name": "Python, Scikit-learn, Tensorflow, PyTorch, Pennylane, Seaborn, CPLEX,DOCPLEX, C++, C, LaTeX, Mathematica",
       "keywords": "Fluent"
     },
     {
@@ -322,7 +625,6 @@
       "fluency": "Basic Knowledge"
     }
   ],
-  "interests": [],
   "references": [],
   "projects": []
 }
