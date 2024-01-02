@@ -81,8 +81,14 @@ layout: default
               {% include resume/languages.html %}
             {% when "interests" %}
               {% include resume/interests.html %}
-            {% when "certificates" %}
-              {% include resume/certificates.html %}
+            {% when "memberships" %}
+              {% include resume/memberships.html %}
+            {% when "experience" %}
+              {% include resume/experience.html %}
+            {% when "presentations" %}
+              {% include resume/presentations.html %}
+            {% when "conferences" %}
+              {% include resume/conferences.html %}
             {% else %}
 
           {% endcase %}

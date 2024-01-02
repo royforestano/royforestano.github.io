@@ -1,5 +1,6 @@
 {
-  "general": [{
+  "general": 
+    {
     "name": "Roy T. Forestano",
     "label": "PhD Student and Teaching Assistant",
     "image": "",
@@ -7,50 +8,113 @@
     "phone": "",
     "url": "https://royforestano.github.io",
     "summary": "",
-    "location": {
+    "location": [{
       "address": "2001 Museum Rd",
       "postalCode": "FL 32603",
       "city": "Gainesville",
       "countryCode": "US",
       "region": "Florida"
-      }
+      }]
     ,
-    "profiles": 
+    "profiles":[
       {
         "network": "LinkedIn",
         "username": "royforestano",
         "url": "https://www.linkedin.com/in/royforestano/"
-      }
+      }]
     
-    } ],
+    },
+    "education": [
+      {
+        "institution": "University of Florida, Gainesville, Florida",
+        "url": "https://www.phys.ufl.edu/wp/",
+        "area": "Physics",
+        "studyType": "PhD",
+        "startDate": "2021",
+        "endDate": "Present",
+        "score": "",
+        "courses": [
+          "Courses: Particle Physics, Machine Learning, Advanced Machine Learning Theory, High Energy Theory, QFT I-II, General Relativity, Differential Geometry"
+        ]
+      },
+      {
+        "institution": "Boston College, Chestnut Hill, MA",
+        "url": "https://dlib.bc.edu/islandora/object/bc-ir:109170",
+        "area": "Physics, Mathematics",
+        "studyType": "B.S., Magna Cum Laude",
+        "startDate": "2017",
+        "endDate": "2021",
+        "score": "",
+        "courses": [
+          "Courses: Classical Mechanics, Quantum Mechanics, Electromagnetism, Numerical Methods and Scientific Computing, General Relativity, Algebra, Analysis, Complex Variables, Probability, Topology, Euclidean and Non-Euclidean Geometry"
+        ]
+      },
+      {
+        "institution": "Hamilton High School East, Hamilton Township, NJ",
+        "url": "https://www.pressreader.com",
+        "area": "",
+        "studyType": "High School Diploma, Valedictorian",
+        "startDate": "2013",
+        "endDate": "2017",
+        "score": "",
+        "courses": []
+      }
+    ],
   "research": [
     {
-      "name": "Institute for Fundamental Theory, University of Florida",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Institute for Fundamental Theory, Department of Physics, University of Florida",
+      "position": "Graduate Research Assistant in Theoretical High Energy Physics",
+      "url": "https://royforestano.github.io/cv/",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "I am developing deep learning algorithms to apply ML/AI techniques to high energy physics and astrophysics. For high energy physics, we have focused on implementing learnable linear and non-linear symmetries into model architectures for enhanced model performance and interpretability. Astrophysics interests include novel ways of analyzing exoplanet system parameters through their spectra, including more efficient deep learning approaches to forward and retrieval models. I have also incorporated quantum information science into my research by solving NP-Hard problems with Quantum Unconstrained Binary Optimization (QUBO) algorithms.",
       "highlights": [
-        "Relativity"
+        "HEP and ML Theory: Supervised, Self-Supervised, and Unsupervised Learning, Deep Learning (NNs, CNNs, RNNs, GNNs, GANs, Transformers, NLPs, Normalizing Flows, and Diffusion Models), Reinforcement Learning, Quantum Information and Computing, Generative Modeling, Interpretability"
       ]
+    },
+    {
+      "name": "Department of Physics, Boston College",
+      "position": "Undergraduate Research Assistant in Theoretical Condensed Matter Physics",
+      "url": "https://royforestano.github.io/cv/",
+      "startDate": "2019-01",
+      "endDate": "2021-05",
+      "summary": "I extended the 1999 work of Bedell, Engelbrecht, and Blagoev on the Goldstone mode's effect on s-wave superconductivity (SC) in a Ferromagnetic Fermi Liquid (FFL), where I studied the massive Higgs mode which arises due to amplitude fluctuations of spins [Phys. Rev. Lett. 82, 133 (1999)]. To understand this mode's role in the FFL, I developed a Green's function approach to include the gapped term in the zero-temperature vertex in order to see how this mode affects the Cooper instability and the superconducting transition temperature, T_C.",
+      "highlights": [
+        "CM Theory: Quantum Statistical Field Theory, Fermi Liquid Theory, Unconventional Superconductivity."
+      ]
+    },
+    {
+      "name": "Department of Physics, Boston College",
+      "position": "Undergraduate Research Assistant in Experimental Condensed Matter Physics",
+      "url": "https://royforestano.github.io/cv/",
+      "startDate": "2018-02",
+      "endDate": "2018-08",
+      "summary": "I used different devices and software, including the Resonant Ultrasound Spectroscopy (RUS) custom analyzer and MATLAB, to compare samples for similarities in resonant frequencies and thermoelectric properties.",
+      "highlights": []
+    }
+
+  ],
+  "experience": [
+    {
+      "organization": "University of Florida",
+      "position": "Graduate Discussion Teaching Assistant",
+      "startDate": "2022-05",
+      "endDate": "Present",
+      "summary": "I taught three sections, with about 30 students per section, of Introductory Physics I Discussions during the Summer 2022, Fall 2022, Spring 2023, Summer 2023, and Fall 2023 semesters.",
+      "highlights": []
+    },
+    {
+      "organization": "University of Florida",
+      "position": "Graduate Laboratory Teaching Assistant",
+      "startDate": "2021-08",
+      "endDate": "2022-05",
+      "summary": "I taught three sections, with about 18 students per section, of Introductory Physics II labs in both the Fall and Spring.",
+      "highlights": []
     }
   ],
   "outreach": [],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
+  "presentations": [],
+  "conferences": [],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
@@ -59,17 +123,21 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [],
+  "memberships": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "English",
+      "fluency": "Native"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Italian",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Greek",
+      "fluency": "Basic Knowledge"
     }
   ],
   "interests": [],

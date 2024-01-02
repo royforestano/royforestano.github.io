@@ -413,9 +413,12 @@ jsonresume:
   - education
   - publications
   - projects
+  - experience
   - outreach
   - awards
-  - certificates
+  - memberships
+  - conferences
+  - presentations
   - skills
   - languages
   - interests
