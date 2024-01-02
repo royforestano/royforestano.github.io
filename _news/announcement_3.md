@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Blog Post: <a href='https://ai4sciencecommunity.github.io'>Link</a>
+Blog Post: <a href='https://royforestano.github.io/blog/2023/2023-gsoc-ml4sci-qmlhep/'>Link</a>
