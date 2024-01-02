@@ -26,13 +26,9 @@
     },
     "interests": [
       {
-        "name": "Deep geometric methods, Quantum Information and Computing, Quantum/Conformal Field Theories, Generative Modeling, Interpretability, Supervised, Self-Supervised, and Unsupervised Learning, Deep Learning [NNs, CNNs, RNNs, GNNs, GANs, Transformers, NLPs, Normalizing Flows, and Diffusion Models ], Reinforcement Learning",
+        "name": "Deep geometric methods, Quantum Information and Computing, Quantum/Conformal Field Theories, Generative Modeling, Interpretability, Supervised, Self-Supervised, and Unsupervised Learning, Deep Learning [NNs, CNNs, RNNs, GNNs, GANs, Transformers, NLPs, Normalizing Flows, Diffusion Models ], Reinforcement Learning, Gravity Theory",
         "keywords": "Current"
       },
-      {
-        "name": "Gravity Theory",
-        "keywords": "Independent"
-      } ,
       {
         "name": "Quantum Statistical Field Theory, Fermi Liquid Theory, Unconventional Superconductivity",
         "keywords": "Previous"
@@ -416,14 +412,14 @@
     {
       "title": "NVIDIA DLI – Building Transformer-Based Natural Language Processing Applications",
       "url": "https://courses.nvidia.com/certificates/b8c0e52bd1e845a7bf8ca8f4c8501730/",
-      "date": "2023-02",
+      "date": "2023-03-15",
       "awarder": "NVIDIA",
       "summary": ""
     },
     {
       "title": "NVIDIA DLI – Fundamentals of Accelerated Computing with CUDA Python",
       "url": "https://courses.nvidia.com/certificates/782fae0d6c4c4968a29af41934020e2c/",
-      "date": "2022-02",
+      "date": "2022-07-14",
       "awarder": "NVIDIA",
       "summary": ""
     }
