@@ -51,7 +51,7 @@
       },
       {
         "institution": "Hamilton High School East, Hamilton Township, NJ",
-        "url": "https://www.pressreader.com",
+        "url": "https://www.communitynews.org/towns/hamilton-post/top-10-seniors-steinert-high-school/article_738e42cb-1bed-584b-91b1-c05c5d156d9d.html",
         "area": "",
         "studyType": "High School Diploma, Valedictorian",
         "startDate": "2013",
@@ -62,9 +62,9 @@
     ],
   "research": [
     {
-      "name": "Institute for Fundamental Theory, Department of Physics, University of Florida",
+      "name": "Institute for Fundamental Theory, Department of Physics, University of Florida, Group of Matchev/a",
       "position": "Graduate Research Assistant in Theoretical High Energy Physics",
-      "url": "https://royforestano.github.io/cv/",
+      "url": "https://www.phys.ufl.edu/wp/index.php/research/high-energy-physics/",
       "startDate": "2022",
       "endDate": "Present",
       "summary": "I am developing deep learning algorithms to apply ML/AI techniques to high energy physics and astrophysics. For high energy physics, we have focused on implementing learnable linear and non-linear symmetries into model architectures for enhanced model performance and interpretability. Astrophysics interests include novel ways of analyzing exoplanet system parameters through their spectra, including more efficient deep learning approaches to forward and retrieval models. I have also incorporated quantum information science into my research by solving NP-Hard problems with Quantum Unconstrained Binary Optimization (QUBO) algorithms.",
@@ -73,9 +73,9 @@
       ]
     },
     {
-      "name": "Department of Physics, Boston College",
+      "name": "Department of Physics, Boston College, Group of Kevin S. Bedell",
       "position": "Undergraduate Research Assistant in Theoretical Condensed Matter Physics",
-      "url": "https://royforestano.github.io/cv/",
+      "url": "https://dlib.bc.edu/islandora/object/bc-ir:109170",
       "startDate": "2019-01",
       "endDate": "2021-05",
       "summary": "I extended the 1999 work of Bedell, Engelbrecht, and Blagoev on the Goldstone mode's effect on s-wave superconductivity (SC) in a Ferromagnetic Fermi Liquid (FFL), where I studied the massive Higgs mode which arises due to amplitude fluctuations of spins [Phys. Rev. Lett. 82, 133 (1999)]. To understand this mode's role in the FFL, I developed a Green's function approach to include the gapped term in the zero-temperature vertex in order to see how this mode affects the Cooper instability and the superconducting transition temperature, T_C.",
@@ -84,9 +84,9 @@
       ]
     },
     {
-      "name": "Department of Physics, Boston College",
+      "name": "Department of Physics, Boston College, Group of Cyril P. Opeil",
       "position": "Undergraduate Research Assistant in Experimental Condensed Matter Physics",
-      "url": "https://royforestano.github.io/cv/",
+      "url": "https://www.mrs.org/fall-2018-symposium-sessions/symposium-sessions-detail?code=TP02",
       "startDate": "2018-02",
       "endDate": "2018-08",
       "summary": "I used different devices and software, including the Resonant Ultrasound Spectroscopy (RUS) custom analyzer and MATLAB, to compare samples for similarities in resonant frequencies and thermoelectric properties.",
@@ -112,20 +112,202 @@
       "highlights": []
     }
   ],
-  "outreach": [],
-  "presentations": [],
-  "conferences": [],
-  "awards": [
+  "outreach": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "organization": "University of Florida",
+      "url": "https://www.phys.ufl.edu/wp/index.php/graduate/physics-graduate-community/",
+      "position": "Graduate Student and Postdoc Seminar (GSPS) High Energy Physics (HEP) Division Organizer",
+      "startDate": "2023-01",
+      "endDate": "Present",
+      "summary": "The GSPS is a group which organizes talks among graduate students and postdocs within various fields including high energy, astrophysics, condensed matter, and biophysics. For the HEP seminars, I gathered speakers for the event, announced event details, ordered refreshments, and introduced the presenters.",
+      "highlights": []
+    },
+    {
+      "organization": "Boston College",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/undergraduate/society-physics-students.html",
+      "position": "SPS Secretary",
+      "startDate": "2020-08",
+      "endDate": "2021-05",
+      "summary": "Organized communication among club members, as well as both the planning and leading of events. One hosted event included a public talk from Benedetta Flebus, an Associate Professor of Physics at BC.",
+      "highlights": []
+    },
+    {
+      "organization": "Boston College",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/undergraduate/society-physics-students.html",
+      "position": "SPS Events Coordinator",
+      "startDate": "2019-08",
+      "endDate": "2020-05",
+      "summary": "Events planned included the SPS BBQ, liquid nitrogen ice cream night, resume building events, and the senior panel.",
+      "highlights": []
+    },
+    {
+      "organization": "Robert Wood Johnson (RWJ) Hospital Hamilton",
+      "url": "https://www.rwjbh.org/rwj-university-hospital-hamilton/",
+      "position": "2016 RWJ Hamilton Foundation Youth in Medicine Internship",
+      "startDate": "2016-07",
+      "endDate": "2016-07",
+      "summary": "I learned about the science and technology that enhances a hospital's performance, including the da Vinci robot and CT scanners. The most memorable experience was speaking to a radiation oncologist about the physics of cancer.",
+      "highlights": []
+    },
+    {
+      "organization": "Hamilton High School East",
+      "url": "https://www.htsdnj.org/Page/2539",
+      "position": "Peer Leadership",
+      "startDate": "2016-05",
+      "endDate": "2017-06",
+      "summary": "Peer leadership is where junior and senior high school students lead incoming freshman and promote the six pillars of character including trustworthiness, respect, responsibility, fairness, caring, and citizenship. Peer Leaders would educate and act as mentors to all underclassmen, both in and outside of the classroom.",
+      "highlights": []
+    },
+    {
+      "organization": "Yardville Elementary School",
+      "url": "https://www.htsdnj.org/yardville.cfm",
+      "position": "Tutor at Yardville Elementary School",
+      "startDate": "2015-09",
+      "endDate": "2016-06",
+      "summary": "Tutored and mentored a first grade student throughout the course of the school year.",
+      "highlights": []
     }
   ],
-  "memberships": [],
+  "presentations": [
+    {
+      "name": "Supervised and Semi-Supervised Methods for Exoplanet Atmospheric Parameter Retrievals from Transmission Spectroscopy",
+      "url": "https://aas.org/meetings/dps55",
+      "meeting": "2023 AAS DPS Meeting",
+      "releaseDate": "2023-10-03",
+      "summary": "Virtual Poster, Presentation ID: 223.03"
+    },
+    {
+      "name": "Invariant and Equivariant Quantum Graph Neural Networks",
+      "url": "https://docs.google.com/document/d/1nHWsB81fbFU9hs6LUZSoJSCzciBanVi_0CWXMdU5ES0/edit",
+      "meeting": "2023 Google Summer of Code Contributor Seminar",
+      "releaseDate": "2023-09-19",
+      "summary": "Lightening Talk, Virtual"
+    },
+    {
+      "name": "Accelerated Machine Learning Symmetry Discovery",
+      "url": "",
+      "meeting": "UF Graduate Student and Postdoc Seminar",
+      "releaseDate": "2023-09-12",
+      "summary": "Talk, Gainesville, FL"
+    },
+    {
+      "name": "Deep Learning Symmetries and their Lie Groups",
+      "url": "https://iaifi.org/phd-summer-school.html",
+      "meeting": "2023 IAIFI Summer School",
+      "releaseDate": "2023-08-11",
+      "summary": "Talk, MIT/Northeastern/Harvard/Tufts, Boston, MA"
+    },
+    {
+      "name": "Unsupervised Machine Learning Methods for Novelty and Outlier Detection of Transmission Spectra",
+      "url": "https://nexsci.caltech.edu/workshop/2023/posters.shtml",
+      "meeting": "2023 Sagan Exoplanet Summer Workshop",
+      "releaseDate": "2023-07-24",
+      "summary": "Poster, California Institute of Technology, Pasadena, CA"
+    },
+    {
+      "name": "Deep Learning Symmetries in Physics and Beyond",
+      "url": "https://indico.cern.ch/event/1218225/sessions/492820/#20230509",
+      "meeting": "2023 Phenomenology Symposium",
+      "releaseDate": "2023-05-09",
+      "summary": "Talk, University of Pittsburg, Pittsburg, PA, Abstract:48"
+    },
+    {
+      "name": "Deep Learning Symmetries and Lie Groups",
+      "url": "https://meetings.aps.org/Meeting/APR23/Session/QQ03.1",
+      "meeting": "2023 APS April Meeting",
+      "releaseDate": "2023-04-25",
+      "summary": "Virtual Talk, Abstract: QQ03.00001"
+    },
+    {
+      "name": "Optimal Feature Engineering for Exoplanet Parameter Retrievals",
+      "url": "https://meetings.aps.org/Meeting/APR23/Session/JJ01.4",
+      "meeting": "2023 APS April Meeting",
+      "releaseDate": "2023-04-24",
+      "summary": " Virtual Talk, Abstract: JJ01.00004, Non-Presenting Co-Author"
+    },
+    {
+      "name": "The 'Gators' solution to the Ariel Data Challenge",
+      "url": "https://nips.cc/virtual/2022/competition/50078#wse-detail-65377",
+      "meeting": "2022 NeurIPs",
+      "releaseDate": "2022-12-07",
+      "summary": "Winning Solution Presentation, Virtual Workshop Talk, New Orleans, LA, Non-presenting co-author"
+    },
+    {
+      "name": "Unconventional SC mediated by the Higgs amplitude mode in itinerant FMs",
+      "url": "https://dlib.bc.edu/islandora/object/bc-ir:109170",
+      "meeting": "Undergraduate Thesis Defense",
+      "releaseDate": "2021-05-06",
+      "summary": "Talk, Boston College, Chestnut Hill, MA"
+    },
+    {
+      "name": "Unconventional SC mediated by the Higgs amplitude mode in itinerant FMs",
+      "url": "https://meetings.aps.org/Meeting/MAR21/Session/V48.6",
+      "meeting": "2021 APS March Meeting",
+      "releaseDate": "2021-03-18",
+      "summary": "Virtual Talk, Abstract V48.00006"
+    },
+    {
+      "name": "Development of the Massive Higgs Effect on the Cooper Instability in the FFL",
+      "meeting": "Group seminar of Kevin S. Bedell's Condensed Matter Theory group",
+      "releaseDate": "2020-08-30",
+      "summary": "Virtual Talk, Boston College, Chestnut Hill, MA"
+    },
+    {
+      "name": "Higgs-Mediated Particle Particle Cooper Instability",
+      "meeting": "SPS Undergraduate Research Poster Presentation",
+      "releaseDate": "2019-11-19",
+      "summary": "Poster, Boston College, Chestnut Hill, MA"
+    },
+    {
+      "name": "Higgs-Mediated Particle Particle Cooper Instability",
+      "meeting": "Group seminar of Kevin S. Bedell's Condensed Matter Theory group",
+      "releaseDate": "2019-08-30",
+      "summary": "Virtual Talk, Boston College, Chestnut Hill, MA"
+    },
+    {
+      "name": "Determining the Mechanical and Thermodynamic Properties of Iron Meteorites Below 300 K",
+      "url": "https://www.mrs.org/fall-2018-symposium-sessions/symposium-sessions-detail?code=TP02",
+      "meeting": "2018 MRS Fall Meeting",
+      "releaseDate": "2018-11-29",
+      "summary": "Talk, Boston, MA, Abstract TP02.12.06, Non-presenting co-author"
+    }
+  ],
+  "conferences": [
+    {
+      "name": "2023 AAS DPS Meeting",
+      "url": "https://royforestano.github.io/cv/",
+      "location": "Virtual",
+      "date": "2021-10-01",
+      "summary": "Presenting"
+    }
+  ],
+  "awards": [
+    {
+      "title": "2023 Steigleman Family Fellowship",
+      "date": "2023-05",
+      "awarder": "Presented by the UF Department of Physics in 2023",
+      "summary": ""
+    }
+  ],
+  "memberships": [
+    {
+      "title": "American Association for the Advancement of Science (AAAS)",
+      "date": "2021",
+      "awarder": "",
+      "summary": []
+    }
+  ],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Python, Scikit-learn, ensorflow, PyTorch, Pennylane, Seaborn, CPLEX,DOCPLEX, C++, C, LaTeX, Mathematica",
+      "keywords": "Fluent"
+    },
+    {
+      "name": "CUDA, Qiskit, Cirq, Java, HTML, MATLAB, LabVIEW",
+      "keywords": "Basic Knowledge"
+    }
+  ],
   "languages": [
     {
       "language": "English",
