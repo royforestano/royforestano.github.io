@@ -26,11 +26,11 @@
     },
     "interests": [
       {
-        "name": "Deep geometric methods, Quantum Information and Computing, Quantum/Conformal Field Theories, Generative Modeling, Interpretability, Supervised, Self-Supervised, and Unsupervised Learning, Deep Learning [NNs, CNNs, RNNs, GNNs, GANs, Transformers, NLPs, Normalizing Flows, Diffusion Models ], Reinforcement Learning, Gravity Theory",
+        "name": "Deep Learning, Deep Geometric Methods, Generative Modeling, Quantum Machine Learning, Reinforcement Learning, NLPs, LLMs, Foundation Models, HEP, Astrophysics",
         "keywords": "Current"
       },
       {
-        "name": "Quantum Statistical Field Theory, Fermi Liquid Theory, Unconventional Superconductivity",
+        "name": "Quantum Statistical Field Theory, Fermi Liquid Theory, Unconventional Superconductivity, Quantum/Conformal Field Theories, Gravity Theory",
         "keywords": "Previous"
       } 
     ],
@@ -41,7 +41,7 @@
         "area": "Physics",
         "studyType": "PhD",
         "startDate": "2021",
-        "endDate": "Present",
+        "endDate": "2025",
         "score": "",
         "courses": [
           "Courses: Particle Physics, Machine Learning, Advanced Machine Learning Theory, High Energy Theory, QFT I-II, General Relativity, Differential Geometry"
@@ -74,8 +74,28 @@
     ],
   "research": [
     {
-      "organization": "Google Summer of Code (GSOC)",
-      "position": "Google Summer of Code Contributor for the Machine Learning for Science (ML4SCI) Organization",
+      "organization": "Los Alamos National Laboratory (LANL)",
+      "position": "2024 Quantum Computing Summer School Research Fellow",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "summary": "I studied the ways in which physical geometric symmetries can improve quantum software and extend the expressivity of quantum algorithms. In particular, I studied how symmetries with respect to homogeneous spaces can enhance model compilation and the effect of irreducible representation bases on classical shadows.",
+      "highlights": [
+        "Compilation, Representation Theory, Matrix Decompositions, Recursive Cartan Decompositions, Classical Shadows"
+      ]
+    },
+    {
+      "organization": "Machine Learning for Science",
+      "position": "Google Summer of Code Mentor",
+      "startDate": "2024-05",
+      "endDate": "2024-10",
+      "summary": "I mentored four students whose projects were focused around quantum graph neural networks for high energy physics analysis at the LHC and learning quantum representations of classical HEP data with contrastive learning. ",
+      "highlights": [
+        "Equivariance, Quantum Computing, GNN, Contrastive Learning, Research Leadership, Communication, Project Management"
+      ]
+    },
+    {
+      "organization": "Machine Learning for Science (ML4SCI)",
+      "position": "Google Summer of Code Contributor",
       "startDate": "2023-05",
       "endDate": "2023-10",
       "summary": "Redeveloped the theoretical frameworks and architectures for invariant and equivariant classical and quantum graph neural networks for HEP Analysis at the LHC alongside fellow GSOC contributors and mentors.",
@@ -119,10 +139,18 @@
   "experience": [
     {
       "organization": "University of Florida",
+      "position": "Graduate Course Instructor & Lecturer",
+      "startDate": "2025-05",
+      "endDate": "2025-08",
+      "summary": "I was the course instructor for Introductory Physics I with over 300 students during the Summer of 2025. Instructor duties included lecturing, creating exams, carrying out demonstrations, and managing graduate discussion TAs.",
+      "highlights": []
+    },
+    {
+      "organization": "University of Florida",
       "position": "Graduate Discussion Teaching Assistant",
       "startDate": "2022-05",
-      "endDate": "Present",
-      "summary": "I taught three sections, with about 30 students per section, of Introductory Physics I Discussions during the Summer 2022, Fall 2022, Spring 2023, Summer 2023, and Fall 2023 semesters.",
+      "endDate": "2025-05",
+      "summary": "I taught three sections, with about 30 students per section, of Introductory Physics I Discussions during the Summer 2022, Fall 2022, Spring 2023, Summer 2023, Fall 2023, Spring 2024, Fall 2024, and Spring 2025 semesters.",
       "highlights": []
     },
     {
@@ -140,7 +168,7 @@
       "url": "https://www.phys.ufl.edu/wp/index.php/graduate/physics-graduate-community/",
       "position": "Graduate Student and Postdoc Seminar (GSPS) High Energy Physics (HEP) Division Organizer",
       "startDate": "2023-01",
-      "endDate": "Present",
+      "endDate": "2025-08",
       "summary": "The GSPS is a group which organizes talks among graduate students and postdocs within various fields including high energy, astrophysics, condensed matter, and biophysics. For the HEP seminars, I gathered speakers for the event, announced event details, ordered refreshments, and introduced the presenters.",
       "highlights": []
     },
@@ -191,6 +219,41 @@
     }
   ],
   "presentations": [
+    {
+      "name": "Interpretable Machine Learning Algorithms for High Energy and Astro- physics",
+      "url": "",
+      "meeting": "Ph.D. Final Defense",
+      "releaseDate": "2025-03-11",
+      "summary": "Exam, University of Florida, Gainesville, FL"
+    },
+    {
+      "name": "Equivariant Quantum Graph Neural Networks",
+      "url": "https://docs.google.com/document/d/1nHWsB81fbFU9hs6LUZSoJSCzciBanVi_0CWXMdU5ES0/edit",
+      "meeting": "Quantum Exoplanet Workshop",
+      "releaseDate": "2024-11-11",
+      "summary": "Virtual, European Space Agency (ESA) Ariel Consortium"
+    },
+    {
+      "name": "Homogenous Spaces for Symmetry-aware Compilation",
+      "url": "",
+      "meeting": "2024 Theoretical Division Student Symposium",
+      "releaseDate": "2024-08-08",
+      "summary": "Talk, Los Alamos National Lab, Los Alamos, NM"
+    },
+    {
+      "name": "Machine Learning Symmetries",
+      "url": "https://www.math.columbia.edu/~fanzhou/repthycatn2024s.html",
+      "meeting": "Spring 2024 Categorical Representation Theory Seminar",
+      "releaseDate": "2024-05-15",
+      "summary": "Virtual, Columbia University"
+    },
+    {
+      "name": "Supervised Methods with Uncertainty Quantification for Exoplanet Retrievals",
+      "url": "https://github.com/royforestano/2024_supervised_algorithms_for_retrievals",
+      "meeting": "Ph.D. Qualifying Examination",
+      "releaseDate": "2024-04-03",
+      "summary": "Exam, University of Florida, Gainesville, FL"
+    },
     {
       "name": "Supervised and Semi-Supervised Methods for Exoplanet Atmospheric Parameter Retrievals from Transmission Spectroscopy",
       "url": "https://aas.org/meetings/dps55",
@@ -295,6 +358,20 @@
     }
   ],
   "conferences": [
+    {
+      "name": "2024 NeurIPS",
+      "url": "",
+      "location": "Vancouver Convention Centre, Vancouver, BC, CAN",
+      "date": "2024-12-10:12-15",
+      "summary": "Presenting"
+    },
+    {
+      "name": "2024 IAIFI Summer School",
+      "url": "",
+      "location": "Virtual",
+      "date": "2024-08-05:08-09",
+      "summary": "Non-Presenting"
+    },
     {
       "name": "2023 AAS DPS Meeting",
       "url": "https://dps.aas.org/meetings/current",
@@ -409,6 +486,20 @@
     }
   ],
   "certifications": [
+    {
+      "title": "NVIDIA DLI – Generative AI with Diffusion Models",
+      "url": "https://learn.nvidia.com/certificates?id=bqGhCBOKQ72keibZF93syA",
+      "date": "2024-02-08",
+      "awarder": "NVIDIA",
+      "summary": ""
+    },
+    {
+      "title": "NVIDIA DLI – Fundamentals of Deep Learning",
+      "url": "https://learn.nvidia.com/certificates?id=e753ad8587e04f41b29562ac33e06c38",
+      "date": "2024-02-08",
+      "awarder": "NVIDIA",
+      "summary": ""
+    },
     {
       "title": "NVIDIA DLI – Building Transformer-Based Natural Language Processing Applications",
       "url": "https://courses.nvidia.com/certificates/b8c0e52bd1e845a7bf8ca8f4c8501730/",
@@ -599,11 +690,11 @@
   "publications": [],
   "skills": [
     {
-      "name": "Python, Scikit-learn, Tensorflow, PyTorch, Pennylane, Seaborn, CPLEX,DOCPLEX, C++, C, LaTeX, Mathematica",
+      "name": "Python, Numpy, PyTorch, Tensorflow, Pennylane, JAX, Scikit-Learn, Seaborn, Sympy, CPLEX, DOCPLEX, C++, C, LaTeX, Mathematica",
       "keywords": "Fluent"
     },
     {
-      "name": "CUDA, Qiskit, Cirq, Java, HTML, MATLAB, LabVIEW",
+      "name": "HPC, CUDA, Java, Qiskit, Cirq, HTML, MATLAB, LabVIEW",
       "keywords": "Basic Knowledge"
     }
   ],
