@@ -4,6 +4,81 @@
 @string{aps = {American Physical Society,}}
 
 
+@article{forestano2025supervisedmachinelearningmethods,
+      title={Supervised Machine Learning Methods with Uncertainty Quantification for Exoplanet Atmospheric Retrievals from Transmission Spectroscopy}, 
+      author={Roy T. Forestano and Konstantin T. Matchev and Katia Matcheva and Eyup B. Unlu},
+      year={2025},
+      eprint={2508.04982},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.EP},
+      url={https://arxiv.org/abs/2508.04982}, 
+	  abstract = {Standard Bayesian retrievals for exoplanet atmospheric parameters from transmission spectroscopy, while well understood and widely used, are generally computationally expensive. In the era of the JWST and other upcoming observatories, machine learning approaches have emerged as viable alternatives that are both efficient and robust. In this paper we present a systematic study of several existing machine learning regression techniques and compare their performance for retrieving exoplanet atmospheric parameters from transmission spectra. We benchmark the performance of the different algorithms on the accuracy, precision, and speed. The regression methods tested here include partial least squares (PLS), support vector machines (SVM), k nearest neighbors (KNN), decision trees (DT), random forests (RF), voting (VOTE), stacking (STACK), and extreme gradient boosting (XGB). We also investigate the impact of different preprocessing methods of the training data on the model performance. We quantify the model uncertainties across the entire dynamical range of planetary parameters. The best performing combination of ML model and preprocessing scheme is validated on a the case study of JWST observation of WASP-39b.},
+	  pdf = {https://arxiv.org/abs/2508.04982},
+	  preview = {2025_supervised_regression.png}
+}
+
+@article{wierichs2025recursivecartandecompositionsunitary,
+      title={Recursive Cartan decompositions for unitary synthesis}, 
+      author={David Wierichs and Maxwell West and Roy T. Forestano and M. Cerezo and Nathan Killoran},
+      year={2025},
+      eprint={2503.19014},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2503.19014}, 
+	  pdf = {https://arxiv.org/abs/2503.19014},
+	  abstract = {Recursive Cartan decompositions (CDs) provide a way to exactly factorize quantum circuits into smaller components, making them a central tool for unitary synthesis. Here we present a detailed overview of recursive CDs, elucidating their mathematical structure, demonstrating their algorithmic utility, and implementing them numerically at large scales. We adapt, extend, and unify existing mathematical frameworks for recursive CDs, allowing us to gain new insights and streamline the construction of new circuit decompositions. Based on this, we show that several leading synthesis techniques from the literature-the Quantum Shannon, Block-ZXZ, and Khaneja-Glaser decompositions-implement the same recursive CD. We also present new recursive CDs based on the orthogonal and symplectic groups, and derive parameter-optimal decompositions. Furthermore, we aggregate numerical tools for CDs from the literature, put them into a common context, and complete them to allow for numerical implementations of all possible classical CDs in canonical form. As an application, we efficiently compile fast-forwardable Hamiltonian time evolution to fixed-depth circuits, compiling the transverse-field XY model on $$10^3$$ qubits into $$2 \times 10^6$$ gates in 22 seconds on a laptop.},
+	  preview = {2025_wierichs_fdhs.png}
+}
+
+
+
+@article{neto2024lieequivariant,
+		title={Lie-Equivariant Quantum Graph Neural Networks},
+		author={Jogi Suda Neto and Roy Thomas Forestano and Sergei Gleyzer and Kyoungchul Kong and Konstantin Matchev and Katia Matcheva},
+		booktitle={NeurIPS 2024 Workshop Machine Learning with new Compute Paradigms},
+		year={2024},
+		url={https://openreview.net/forum?id=nl8BL2YIFY},
+		abstract = {Discovering new phenomena at the Large Hadron Collider (LHC) involves the identification of rare signals over conventional backgrounds. Thus binary classification tasks are ubiquitous in analyses of the vast amounts of LHC data. We develop a Lie-Equivariant Quantum Graph Neural Network (Lie-EQGNN), a quantum model that is not only data efficient, but also has symmetry-preserving properties. Since Lorentz group equivariance has been shown to be beneficial for jet tagging, we build a Lorentz-equivariant quantum GNN for quark-gluon jet discrimination and show that its performance is on par with its classical state-of-the-art counterpart LorentzNet, making it a viable alternative to the conventional computing paradigm.},
+		pdf = {https://openreview.net/forum?id=nl8BL2YIFY},
+		preview = {2024_jogi_Lie-EQGNN.png}	
+}
+
+@Article{axioms13050323,
+		AUTHOR = {Comajoan Cara, Marçal and Dahale, Gopal Ramesh and Dong, Zhongtian and Forestano, Roy T. and Gleyzer, Sergei and Justice, Daniel and Kong, Kyoungchul and Magorsch, Tom and Matchev, Konstantin T. and Matcheva, Katia and Unlu, Eyup B.},
+		TITLE = {Quantum Vision Transformers for Quark–Gluon Classification},
+		JOURNAL = {Axioms},
+		VOLUME = {13},
+		YEAR = {2024},
+		NUMBER = {5},
+		ARTICLE-NUMBER = {323},
+		URL = {https://www.mdpi.com/2075-1680/13/5/323},
+		ISSN = {2075-1680},
+		ABSTRACT = {We introduce a hybrid quantum-classical vision transformer architecture, notable for its integration of variational quantum circuits within both the attention mechanism and the multi-layer perceptrons. The research addresses the critical challenge of computational efficiency and resource constraints in analyzing data from the upcoming High Luminosity Large Hadron Collider, presenting the architecture as a potential solution. In particular, we evaluate our method by applying the model to multi-detector jet images from CMS Open Data. The goal is to distinguish quark-initiated from gluon-initiated jets. We successfully train the quantum model and evaluate it via numerical simulations. Using this approach, we achieve classification performance almost on par with the one obtained with the completely classical architecture, considering a similar number of parameters.},
+		DOI = {10.3390/axioms13050323},
+		pdf = {https://www.mdpi.com/2075-1680/13/5/323},
+		preview={2024_marcal_axioms-13-00323-g003.png}
+
+}
+
+@Article{axioms13030187,
+		AUTHOR = {Unlu, Eyup B. and Comajoan Cara, Marçal and Dahale, Gopal Ramesh and Dong, Zhongtian and Forestano, Roy T. and Gleyzer, Sergei and Justice, Daniel and Kong, Kyoungchul and Magorsch, Tom and Matchev, Konstantin T. and Matcheva, Katia},
+		TITLE = {Hybrid Quantum Vision Transformers for Event Classification in High Energy Physics},
+		JOURNAL = {Axioms},
+		VOLUME = {13},
+		YEAR = {2024},
+		NUMBER = {3},
+		ARTICLE-NUMBER = {187},
+		URL = {https://www.mdpi.com/2075-1680/13/3/187},
+		ISSN = {2075-1680},
+		ABSTRACT = {Models based on vision transformer architectures are considered state-of-the-art when it comes to image classification tasks. However, they require extensive computational resources both for training and deployment. The problem is exacerbated as the amount and complexity of the data increases. Quantum-based vision transformer models could potentially alleviate this issue by reducing the training and operating time while maintaining the same predictive power. Although current quantum computers are not yet able to perform high-dimensional tasks, they do offer one of the most efficient solutions for the future. In this work, we construct several variations of a quantum hybrid vision transformer for a classification problem in high-energy physics (distinguishing photons and electrons in the electromagnetic calorimeter). We test them against classical vision transformer architectures. Our findings indicate that the hybrid models can achieve comparable performance to their classical analogs with a similar number of parameters.},
+		DOI = {10.3390/axioms13030187},
+		pdf = {https://www.mdpi.com/2075-1680/13/3/187},
+		preview={2024_eyup_v_ansatz.png}
+}
+
+
+
+
 @article{forestano2023comparison,
       title={A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks}, 
       author={Roy T. Forestano and Marçal Comajoan Cara and Gopal Ramesh Dahale and Zhongtian Dong and Sergei Gleyzer and Daniel Justice and Kyoungchul Kong and Tom Magorsch and Konstantin T. Matchev and Katia Matcheva and Eyup B. Unlu},

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2024 Los Alamos National Lab Quantum Computing Fellowship
-date: 2024-09-08 22:59:00-0400
+date: 2024-08-09 22:59:00-0400
 inline: false
 related_posts: false
 ---

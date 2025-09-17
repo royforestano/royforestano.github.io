@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-03 17:30:00-0400
+date: 2025-08-07 17:30:00-0400
 inline: true
 related_posts: false
 ---
 
-2023 AAS DPS Supervised Regression for Exoplanetary Retrievals Lightening Talk
+Submitted <a href='https://www.arxiv.org/abs/2508.04982'>Supervised Machine Learning Methods with Uncertainty Quantification for Exoplanet Atmospheric Retrievals from Transmission Spectroscopy</a> to AAS Journals.
